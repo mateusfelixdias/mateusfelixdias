@@ -7,3 +7,5 @@
     <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
     <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb">
     
+###Apaixonado por tecnologia, educação e novos projetos!
+    
